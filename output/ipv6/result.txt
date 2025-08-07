@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-07 06:52:31,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-08-07 18:58:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1530,6 +1530,7 @@ CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
+漫画解说,https://mursor.ottiptv.cc/yy/1382735568
 
 🎮游戏频道,#genre#
 游戏风云,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114
